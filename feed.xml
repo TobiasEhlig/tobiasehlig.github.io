@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Wintersmith's blog</title>
+    <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://localhost:8080</link>
+    <description>Ramblings of an immor(t)al demigod</description>
+    <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+    <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
+    <language>en</language>
+    <item>
+      <title>Så blogger vi for sindsygt!</title>
+      <link>http://localhost:8080/articles/red-herring/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/red-herring/</guid>
+      <author></author>
+      <description>&lt;p&gt;Det her er jo en konge blog - er vi enige?&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:8080/articles/red-herring/banana.png&quot; alt=&quot;a banana&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>
